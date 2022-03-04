@@ -7,7 +7,7 @@ categories: poetry reading
 
 SpokenWeb UAlberta and the Department of English and Film Studies at the University of Alberta are pleased to present a dual reading and discussion featuring three prominent Edmonton-based authors.
 
-![speakers](/spokenWebUA/assets/eventPoster.jpeg)
+![speakers](/SpokenWebSite/assets/eventPoster.jpeg)
 
 **Monday, February 7th from 11:00am - 12:30pm MST.**
 This is an online event.
