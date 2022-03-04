@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   The SSHRC-funded [SpokenWeb](https://spokenweb.ca/) partnership aims to develop coordinated and collaborative 
   approaches to literary historical study, digital development, and critical and pedagogical 
   engagement with diverse collections of literary sound recordings from across Canada and beyond.
-baseurl: "/spokenWebUA" # the subpath of your site, e.g. /blog
-url: "https://cautious-fiesta-ab6b8ba7.pages.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/SpokenWebSite" # the subpath of your site, e.g. /blog
+url: "https://spokenwebalberta.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
