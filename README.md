@@ -1,2 +1,2 @@
 # spokenWebSite
-website for SpokenWeb Alberta
+Website for SpokenWeb Alberta
